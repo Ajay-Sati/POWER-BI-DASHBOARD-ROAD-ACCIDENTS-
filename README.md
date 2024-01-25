@@ -8,6 +8,6 @@ In addition to overall accident statistics, the dashboard delves into specific f
 
 User interaction is a central feature of this Power BI dashboard, allowing individuals to customize their exploration based on specific parameters. Whether focusing on a particular region, examining accident causes, or analyzing temporal patterns, the dashboard provides a user-friendly experience tailored to individual needs.
 
-GLIMPSE OF THE DAHBOARD -https://www.linkedin.com/posts/ajay-sati-74905b25b_storytellingwithdata-storytelling-datastorytelling-activity-7149780132436586496-9Bem?utm_source=share&utm_medium=member_desktop
+GLIMPSE OF THE DAHBOARD -
+https://app.powerbi.com/view?r=eyJrIjoiYTI2YWQzNjAtODMyNy00OTRiLWFjOTktYmRjNzExYjM5MGJlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
-## ONE CAN DOWNLOAD THE DASHBOARD FROM THE DOWNLOAD RAW OPTION ON TOP RIGHT CORNER AFTER CLICKING ON THE PBIX FILE.
