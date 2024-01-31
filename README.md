@@ -1,6 +1,6 @@
 # UK ROAD ACCIDENTS
 
-TThis Power BI dashboard focusing on Road Accidents in the UK for the year 2022. This dynamic dashboard offers a detailed and visual analysis of road safety data, providing users with valuable insights into accident trends.
+This Power BI dashboard focusing on Road Accidents in the UK for the year 2022. This dynamic dashboard offers a detailed and visual analysis of road safety data, providing users with valuable insights into accident trends.
 
 The dashboard employs various graphs and visualizations to present a multifaceted view of road accidents. Through interactive charts, users can explore key metrics such as the frequency of accidents, distribution across different regions, and trends over time. The use of geographical maps enhances the understanding of accident hotspots and regional variations.
 
